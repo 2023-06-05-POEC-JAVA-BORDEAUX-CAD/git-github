@@ -2,6 +2,7 @@
 
 ---
 
+
 ## Configuration
 
 1. Configuration minimale : nom, prénom et adresse e-mail.
